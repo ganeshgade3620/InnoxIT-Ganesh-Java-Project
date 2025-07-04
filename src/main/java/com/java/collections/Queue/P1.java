@@ -1,4 +1,4 @@
-package com.InnoxIT_Java_Project_Ganesh.Collection_Framework.Queue;
+package com.java.collections.Queue;
 import java.util.*;
 public class P1 {
 

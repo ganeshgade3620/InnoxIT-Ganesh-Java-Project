@@ -1,8 +1,7 @@
-package com.InnoxIT_Java_Project_Ganesh.Collection_Framework;
+package com.java.collections;
 
     import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+    import java.util.List;
     public class ReverseList {
         public static void main(String[] args) {
             List<String> fruits = new ArrayList<>();

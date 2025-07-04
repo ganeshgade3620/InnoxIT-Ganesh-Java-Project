@@ -1,4 +1,4 @@
-package com.InnoxIT_Java_Project_Ganesh.Collection_Framework;
+package com.java.collections;
 import java.util.*;
     public class ArrayListPractice1  {
         public static void main(String[] args) {

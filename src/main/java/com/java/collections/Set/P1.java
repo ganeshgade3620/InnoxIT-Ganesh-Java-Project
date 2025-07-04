@@ -1,4 +1,4 @@
-package com.InnoxIT_Java_Project_Ganesh.Collection_Framework.Set;
+package com.java.collections.Set;
 import java.util.*;
 public class P1 {
    // A Set is a collection that does not allow duplicate elements.

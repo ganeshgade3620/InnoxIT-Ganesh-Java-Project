@@ -1,4 +1,4 @@
-package com.InnoxIT_Java_Project_Ganesh.Collection_Framework.Map;
+package com.java.collections.Map;
 import java.util.*;
 public class P1 {
     public static void main(String[] args) {

@@ -14,7 +14,6 @@ public class StringMethod_toUpperCase_toLowerCase15 {
         String fruit = "Apple";
         String lower = name.toLowerCase();
         System.out.println(lower); //apple
-
-
+        
     }
 }
